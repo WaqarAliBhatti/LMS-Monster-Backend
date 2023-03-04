@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64030ed180dbdd8349f3878f"
+  },
+  "firstName": "waqar",
+  "lastName": "Ali",
+  "email": "waqar@waqar.com",
+  "qualification": "BS CS",
+  "course": "HTML",
+  "phone": "234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64030ee480dbdd8349f38791"
+  },
+  "firstName": "Fahad",
+  "lastName": "Ali",
+  "email": "fahad@waqar.com",
+  "qualification": "BS CS",
+  "course": "HTML",
+  "phone": "234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64030ef980dbdd8349f38793"
+  },
+  "firstName": "Saif",
+  "lastName": "Ali",
+  "email": "saif@waqar.com",
+  "qualification": "BS CS",
+  "course": "CSS",
+  "phone": "234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64030f0d80dbdd8349f38795"
+  },
+  "firstName": "Bilal",
+  "lastName": "Khan",
+  "email": "bilal@waqar.com",
+  "qualification": "BS CS",
+  "course": "CSS",
+  "phone": "234",
+  "__v": 0
+}]
